@@ -15,4 +15,4 @@ class Cliente:
         conexion.commit()
         conexion.close()
 
-    # Métodos para actualizar, eliminar, listar también se agregan aquí
+  
